@@ -1,16 +1,38 @@
-# wallpaperhub
 
-A new Flutter project.
+# WallPaper Hub
 
-## Getting Started
+Description:
 
-This project is a starting point for a Flutter application.
+WallPaper Hub is a dynamic wallpaper haven that empowers creativity, connection, and community. Immerse yourself in a treasure trove of stunning, high-quality wallpapers curated from Pexels. Or, unleash your inner artist and design, upload, and sell your own creations! Connect with fellow wallpaper aficionados, share your favorites, and foster a vibrant network.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter SDK: Make sure you have the Flutter SDK installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IDE (Optional): While not required, using an IDE like Visual Studio Code, Android Studio, or IntelliJ IDEA with Flutter plugins can enhance your development experience.
+
+Installation Steps:
+
+Clone the project:
+
+Bash
+git clone https://github.com/gpkonarde/WallpaperHub
+
+Install dependencies:
+
+Navigate to the project directory and run:
+
+Bash
+flutter pub get
+Set up API keys:
+setup account on pexels API and create your own API key to use.
+
+Run the app:
+
+Connect your device or start an emulator/simulator. Then, run:
+
+Bash
+flutter run
+
+    
