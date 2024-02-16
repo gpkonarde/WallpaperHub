@@ -46,5 +46,4 @@ Search Functionality: Use the search feature to find wallpapers based on specifi
 
 Set Wallpaper: Easily set your favorite wallpaper as the background of your device directly from the app.
 
-Save Favorites: Keep track of your preferred wallpapers by saving them to your favorites.a
->>>>>>> 35ae7294e99ca4efdcd0e134e3e15b38f7dbb3ea
+Save Favorites: Keep track of your preferred wallpapers by saving them to your favorites.
