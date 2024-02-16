@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # WallPaper Hub
 
 Description:
